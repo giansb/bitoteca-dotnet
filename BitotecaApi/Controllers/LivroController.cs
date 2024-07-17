@@ -21,6 +21,7 @@ public class LivroController : ControllerBase
         return _context.Livro;
     }
 
+
     [HttpGet("{id}")]
 
     public IActionResult GetLivroById(int id)

@@ -11,6 +11,10 @@ var conectionLivro = builder.Configuration.GetConnectionString("LivroConnection"
 
 builder.Services.AddDbContext<LivroContext>(opts => opts.UseMySql(conectionLivro, ServerVersion.AutoDetect(conectionLivro)));
 
+var conectionGenero = builder.Configuration.GetConnectionString("GeneroConnection");
+
+builder.Services.AddDbContext<GeneroContext>(opts => opts.UseMySql(conectionGenero, ServerVersion.AutoDetect(conectionGenero)));
+
 
 var apiCorsPolicy = "apiCorsPolicy";
 
