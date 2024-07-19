@@ -15,6 +15,10 @@ var conectionGenero = builder.Configuration.GetConnectionString("GeneroConnectio
 
 builder.Services.AddDbContext<GeneroContext>(opts => opts.UseMySql(conectionGenero, ServerVersion.AutoDetect(conectionGenero)));
 
+var conectionEditora = builder.Configuration.GetConnectionString("EditoraConnection");
+
+builder.Services.AddDbContext<EditoraContext>(opts => opts.UseMySql(conectionEditora, ServerVersion.AutoDetect(conectionEditora)));
+
 
 var apiCorsPolicy = "apiCorsPolicy";
 
