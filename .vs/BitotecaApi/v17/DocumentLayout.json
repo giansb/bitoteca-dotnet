@@ -90,8 +90,7 @@
               "RelativeToolTip": "BitotecaApi\\Data\\EditoraContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:09:57.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T14:09:57.368Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "BitotecaApi\\Controllers\\EditoraController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:07:54.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T14:07:54.749Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "BitotecaApi\\Models\\Editora.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:05:51.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T14:05:51.814Z"
             },
             {
               "$type": "Document",
@@ -127,7 +124,7 @@
               "RelativeDocumentMoniker": "BitotecaApi\\Program.cs",
               "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Program.cs",
               "RelativeToolTip": "BitotecaApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T16:56:22.428Z",
               "EditorCaption": ""
@@ -142,8 +139,7 @@
               "RelativeToolTip": "BitotecaApi\\Controllers\\GeneroController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:06:38.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T13:06:38.914Z"
             },
             {
               "$type": "Document",
@@ -155,8 +151,7 @@
               "RelativeToolTip": "BitotecaApi\\BitotecaApi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-10T16:44:58.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T16:44:58.718Z"
             },
             {
               "$type": "Document",
@@ -168,8 +163,7 @@
               "RelativeToolTip": "BitotecaApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-09T16:54:15.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T16:54:15.284Z"
             },
             {
               "$type": "Document",
@@ -181,8 +175,7 @@
               "RelativeToolTip": "BitotecaApi\\Data\\GeneroContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:08:37.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T13:08:37.219Z"
             },
             {
               "$type": "Document",
@@ -194,8 +187,7 @@
               "RelativeToolTip": "BitotecaApi\\Controllers\\AutorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T15:09:48.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T15:09:48.941Z"
             },
             {
               "$type": "Document",
@@ -207,8 +199,7 @@
               "RelativeToolTip": "BitotecaApi\\Data\\AutorContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:51:06.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T16:51:06.126Z"
             },
             {
               "$type": "Document",
@@ -220,8 +211,7 @@
               "RelativeToolTip": "BitotecaApi\\Models\\Autor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T15:12:01.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T15:12:01.961Z"
             },
             {
               "$type": "Document",
@@ -233,8 +223,7 @@
               "RelativeToolTip": "BitotecaApi\\Models\\Genero.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:05:32.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T13:05:32.864Z"
             },
             {
               "$type": "Document",
@@ -258,8 +247,7 @@
               "RelativeToolTip": "BitotecaApi\\Controllers\\LivroController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:39:09.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T13:39:09.631Z"
             },
             {
               "$type": "Document",
