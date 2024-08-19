@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\",
+  "WorkspaceRootPath": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\bitotecaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\bitotecaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\data\\editoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\editoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\models\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\models\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\data\\generocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\generocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\data\\autorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\autorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\controllers\\editoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\models\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\models\\editora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\data\\livrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\data\\livrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\livrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gianb\\desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\bitotecaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\bitotecaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\bitotecaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\data\\editoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\editoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\data\\generocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\generocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\data\\autorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\data\\autorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|c:\\users\\gian\\desktop\\nova pasta\\bitoteca-dotnet\\bitotecaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2C2E3EE5-99D0-473E-8C70-A1236BA472CB}|BitotecaApi\\BitotecaApi.csproj|solutionrelative:bitotecaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,120 +82,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditoraContext.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\EditoraContext.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Data\\EditoraContext.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\EditoraContext.cs",
-              "RelativeToolTip": "BitotecaApi\\Data\\EditoraContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "DocumentIndex": 1,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "BitotecaApi\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvysAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:09:57.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditoraController.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\EditoraController.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\EditoraController.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\EditoraController.cs",
-              "RelativeToolTip": "BitotecaApi\\Controllers\\EditoraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:07:54.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Editora.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Editora.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Models\\Editora.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Editora.cs",
-              "RelativeToolTip": "BitotecaApi\\Models\\Editora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:05:51.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Program.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Program.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Program.cs",
-              "RelativeToolTip": "BitotecaApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:56:22.428Z",
+              "WhenOpened": "2024-07-09T15:09:48.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeneroController.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\GeneroController.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\GeneroController.cs",
-              "RelativeToolTip": "BitotecaApi\\Controllers\\GeneroController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:06:38.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BitotecaApi.http",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.http",
-              "RelativeDocumentMoniker": "BitotecaApi\\BitotecaApi.http",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.http",
-              "RelativeToolTip": "BitotecaApi\\BitotecaApi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-10T16:44:58.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\appsettings.json",
-              "RelativeDocumentMoniker": "BitotecaApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\appsettings.json",
-              "RelativeToolTip": "BitotecaApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-09T16:54:15.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GeneroContext.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\GeneroContext.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Data\\GeneroContext.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\GeneroContext.cs",
-              "RelativeToolTip": "BitotecaApi\\Data\\GeneroContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:08:37.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AutorController.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\AutorController.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\AutorController.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\AutorController.cs",
-              "RelativeToolTip": "BitotecaApi\\Controllers\\AutorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T15:09:48.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AutorContext.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\AutorContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\AutorContext.cs",
               "RelativeDocumentMoniker": "BitotecaApi\\Data\\AutorContext.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\AutorContext.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\AutorContext.cs",
               "RelativeToolTip": "BitotecaApi\\Data\\AutorContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Autor.cs",
               "RelativeDocumentMoniker": "BitotecaApi\\Models\\Autor.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Autor.cs",
               "RelativeToolTip": "BitotecaApi\\Models\\Autor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Genero.cs",
               "RelativeDocumentMoniker": "BitotecaApi\\Models\\Genero.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Genero.cs",
               "RelativeToolTip": "BitotecaApi\\Models\\Genero.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BitotecaApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "BitotecaApi\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -239,23 +143,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Livro.cs",
+              "RelativeToolTip": "BitotecaApi\\Models\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:05:33.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LivroController.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\LivroController.cs",
               "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\LivroController.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\LivroController.cs",
               "RelativeToolTip": "BitotecaApi\\Controllers\\LivroController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T13:39:09.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "Editora.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Editora.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Models\\Editora.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Models\\Editora.cs",
+              "RelativeToolTip": "BitotecaApi\\Models\\Editora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:05:51.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditoraController.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\EditoraController.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\EditoraController.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\EditoraController.cs",
+              "RelativeToolTip": "BitotecaApi\\Controllers\\EditoraController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:07:54.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "BitotecaApi\\Controllers\\GeneroController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:06:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Program.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Program.cs",
+              "RelativeToolTip": "BitotecaApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:56:22.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GeneroContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\GeneroContext.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Data\\GeneroContext.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\GeneroContext.cs",
+              "RelativeToolTip": "BitotecaApi\\Data\\GeneroContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:08:37.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BitotecaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\appsettings.json",
+              "RelativeToolTip": "BitotecaApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T16:54:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BitotecaApi.http",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.http",
+              "RelativeDocumentMoniker": "BitotecaApi\\BitotecaApi.http",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.http",
+              "RelativeToolTip": "BitotecaApi\\BitotecaApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-10T16:44:58.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LivroContext.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\LivroContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\LivroContext.cs",
               "RelativeDocumentMoniker": "BitotecaApi\\Data\\LivroContext.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Data\\LivroContext.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\LivroContext.cs",
               "RelativeToolTip": "BitotecaApi\\Data\\LivroContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,15 +264,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Livro.cs",
-              "RelativeDocumentMoniker": "BitotecaApi\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\bitoteca-dotnet\\BitotecaApi\\Models\\Livro.cs",
-              "RelativeToolTip": "BitotecaApi\\Models\\Livro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "DocumentIndex": 12,
+              "Title": "EditoraContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\EditoraContext.cs",
+              "RelativeDocumentMoniker": "BitotecaApi\\Data\\EditoraContext.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\Data\\EditoraContext.cs",
+              "RelativeToolTip": "BitotecaApi\\Data\\EditoraContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T15:05:33.211Z"
+              "WhenOpened": "2024-07-18T14:09:57.368Z"
             }
           ]
         }

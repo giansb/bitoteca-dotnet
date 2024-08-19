@@ -33,5 +33,13 @@ namespace BitotecaApi.Controllers
             }
             return Ok(editora);
         }
+
+        [HttpPost]
+        public IActionResult AddEditora([FromBody] Editora editora)
+        {
+            _context.Editora.Add(editora);
+            _context.SaveChanges();
+            return CreatedAtAction(nameof(GetEditoraById), new { id = editora.Id }, editora);
+        }
     }
 }

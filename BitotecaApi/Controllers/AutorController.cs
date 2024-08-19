@@ -41,4 +41,25 @@ public class AutorController : ControllerBase
         return Ok(autorSelect);
     }
 
+    [HttpPut("{id}")]
+    public IActionResult UpdateAutor(int id, [FromBody] Autor autor)
+    {
+ 
+        var existingAutor = _context.Autor.FirstOrDefault(a => a.Id == id);
+        if (existingAutor == null)
+        {
+            return NotFound();
+        }
+
+
+        existingAutor.Nome = autor.Nome;
+        existingAutor.biografia = autor.biografia;
+        existingAutor.imagem_url = autor.imagem_url;
+
+        _context.Autor.Update(existingAutor);
+        _context.SaveChanges();
+
+        return NoContent();
+    }
+
 }

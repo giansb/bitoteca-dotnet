@@ -33,4 +33,12 @@ public class GeneroController : ControllerBase
         }
         return Ok(genero);
     }
+
+    [HttpPost]
+    public IActionResult AddLivro([FromBody] Genero genero)
+    {
+        _context.Genero.Add(genero);
+        _context.SaveChanges();
+        return CreatedAtAction(nameof(GetGeneroById), new { id = genero.Id }, genero);
+    }
 }

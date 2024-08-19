@@ -35,5 +35,13 @@ public class LivroController : ControllerBase
         return Ok(livroSelect);
     }
 
+    [HttpPost]
+    public IActionResult AddLivro([FromBody] Livro livro)
+    {
+        _context.Livro.Add(livro);
+        _context.SaveChanges();
+        return CreatedAtAction(nameof(GetLivroById), new { id = livro.Id }, livro);
+    }
+
 
 }

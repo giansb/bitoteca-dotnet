@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitotecaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e80ec32db19cc2bcdafbf6225b18c5508e1a6c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad66a55f514a3bd64ef3957d2ffae66cf88f8d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitotecaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitotecaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
