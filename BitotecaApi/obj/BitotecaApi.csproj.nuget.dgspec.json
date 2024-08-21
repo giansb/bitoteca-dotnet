@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj": {}
+    "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj": {
+    "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj",
+        "projectUniqueName": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj",
         "projectName": "BitotecaApi",
-        "projectPath": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj",
-        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gian\\Desktop\\Nova pasta\\bitoteca-dotnet\\BitotecaApi\\obj\\",
+        "projectPath": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\BitotecaApi\\BitotecaApi.csproj",
+        "packagesPath": "C:\\Users\\gianb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gianb\\Desktop\\bitoteca\\bitoteca-dotnet\\BitotecaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gianb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

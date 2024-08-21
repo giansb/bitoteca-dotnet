@@ -5,7 +5,7 @@ namespace BitotecaApi.Data;
 
 public class EditoraContext : DbContext
 {
-    public EditoraContext(DbContextOptions<AutorContext> opts) : base(opts)
+    public EditoraContext(DbContextOptions<EditoraContext> opts) : base(opts)
     {
 
     }

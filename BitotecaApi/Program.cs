@@ -19,6 +19,10 @@ var conectionEditora = builder.Configuration.GetConnectionString("EditoraConnect
 
 builder.Services.AddDbContext<EditoraContext>(opts => opts.UseMySql(conectionEditora, ServerVersion.AutoDetect(conectionEditora)));
 
+var conectionLinguagem = builder.Configuration.GetConnectionString("LinguagemConnection");
+
+builder.Services.AddDbContext<IdiomaContext>(opts => opts.UseMySql(conectionLinguagem, ServerVersion.AutoDetect(conectionLinguagem)));
+
 
 var apiCorsPolicy = "apiCorsPolicy";
 

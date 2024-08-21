@@ -41,4 +41,40 @@ public class GeneroController : ControllerBase
         _context.SaveChanges();
         return CreatedAtAction(nameof(GetGeneroById), new { id = genero.Id }, genero);
     }
+
+    [HttpPut("{id}")]
+    public IActionResult UpdateGenero(int id, [FromBody] Genero genero)
+    {
+
+        var existingGenero = _context.Genero.FirstOrDefault(a => a.Id == id);
+        if (existingGenero == null)
+        {
+            return NotFound();
+        }
+
+        existingGenero.Nome = genero.Nome;
+
+        _context.Genero.Update(existingGenero);
+        _context.SaveChanges();
+
+        return NoContent();
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult DeleteGenero(int id)
+    {
+        var autor = _context.Genero.FirstOrDefault(a => a.Id == id);
+        if (autor == null)
+        {
+            return NotFound();
+        }
+
+        _context.Genero.Remove(autor);
+        _context.SaveChanges();
+
+        return NoContent();
+    }
+
+
+
 }

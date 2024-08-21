@@ -41,5 +41,43 @@ namespace BitotecaApi.Controllers
             _context.SaveChanges();
             return CreatedAtAction(nameof(GetEditoraById), new { id = editora.Id }, editora);
         }
+
+
+        [HttpPut("{id}")]
+        public IActionResult UpdateEditora(int id, [FromBody] Editora editora)
+        {
+
+            var existingEditora = _context.Editora.FirstOrDefault(a => a.Id == id);
+            if (existingEditora == null)
+            {
+                return NotFound();
+            }
+
+            existingEditora.Nome = editora.Nome;
+            existingEditora.Email = editora.Email;
+            existingEditora.Cep = editora.Cep;
+            existingEditora.Telefone = editora.Telefone;
+
+            _context.Editora.Update(existingEditora);
+            _context.SaveChanges();
+
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteEditora(int id)
+        {
+            var autor = _context.Editora.FirstOrDefault(a => a.Id == id);
+            if (autor == null)
+            {
+                return NotFound();
+            }
+
+            _context.Editora.Remove(autor);
+            _context.SaveChanges();
+
+            return NoContent();
+        }
+
     }
 }

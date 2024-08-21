@@ -41,6 +41,7 @@ public class AutorController : ControllerBase
         return Ok(autorSelect);
     }
 
+
     [HttpPut("{id}")]
     public IActionResult UpdateAutor(int id, [FromBody] Autor autor)
     {
@@ -61,5 +62,21 @@ public class AutorController : ControllerBase
 
         return NoContent();
     }
+
+    [HttpDelete("{id}")]
+    public IActionResult DeleteAutor(int id)
+    {
+        var autor = _context.Autor.FirstOrDefault(a => a.Id == id);
+        if (autor == null)
+        {
+            return NotFound();
+        }
+
+        _context.Autor.Remove(autor);
+        _context.SaveChanges();
+
+        return NoContent();
+    }
+    
 
 }
